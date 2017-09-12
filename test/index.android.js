@@ -49,7 +49,7 @@ const styles = StyleSheet.create({
       flexWrap:'wrap'//显示不下，换一行。
   },
     innerViewStyle:{
-        backgroundColor:'green',
+        backgroundColor:'pink',
         flex:2,
         width:30
 
